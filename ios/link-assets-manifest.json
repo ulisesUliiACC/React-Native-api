@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Mali ExtraLight.ttf",
+      "sha1": "84876daab5c1914b3775274e5e0af268d3ff3547"
+    },
+    {
+      "path": "assets/fonts/Mali-ExtraLightItalic.ttf",
+      "sha1": "d3d8efc33390c992937d79192de061ae5bc23565"
+    }
+  ]
+}

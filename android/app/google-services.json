@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378211855571",
+    "project_id": "ulises-prueva",
+    "storage_bucket": "ulises-prueva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378211855571:android:3df328a663891320e7f826",
+        "android_client_info": {
+          "package_name": "com.apulises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378211855571-bgbbjfu847fd9mpn22gpk0420l6t461e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apulises",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "378211855571-jc9b8h5ntr83pvttfkjdmcfjdn368t3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSSMEz3u2VJOIjLXF_Bojw9q1Swrj_hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378211855571-jc9b8h5ntr83pvttfkjdmcfjdn368t3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
